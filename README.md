@@ -2,10 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=leedy3838&fontSize=90&&align=center)
 
 
-<p>안녕하세요! 서버 개발자를 지망하는 이동영입니다.
-<p></p>느리지만 꾸준하게 성장하려고 노력중입니다!
-
-<hr>
 
 <div style="display: flex;">
   
