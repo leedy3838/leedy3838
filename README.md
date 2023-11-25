@@ -5,7 +5,8 @@
 
 <div style="display: flex;">
   
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leedy3838"/>  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=leedy3838)](https://solved.ac/leedy3838)
    
 </div>
 
