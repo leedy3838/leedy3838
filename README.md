@@ -4,9 +4,11 @@
 
 
 <div style="display: flex;">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedy3838&layout=compact)
   
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=leedy3838)](https://solved.ac/leedy3838)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leedy3838)](https://solved.ac/leedy3838)
+
    
 </div>
 
